@@ -1,0 +1,187 @@
+html {
+    outline: none;
+
+}
+
+button{
+    cursor: pointer;
+}
+/* Cursor für die Abspielbaren Button´s & Images */
+button:focus {
+    border: none;
+    outline: none;
+}
+
+.col-lg-3 img{
+    cursor: pointer;
+}
+
+
+p {
+
+}
+h1, h2 ,h3, h4, h5{
+    text-align: center;
+}
+
+.container{
+    width: 1280px;
+    background-color: #FCFAF7;
+    padding:0;
+}
+.headerContainer {
+    position: relative;
+}
+.header {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+}
+.header2 {
+    background-color: #FDF05D;
+    width: 100%;
+    height:200px;
+    margin: 0;
+}
+
+.logo{
+    position: absolute;
+    top: 0;
+    left: 0;
+    margin: 10px;
+}
+
+.überschrift{
+    position: absolute;
+    color: #fff;
+    top: 0;
+    left: 0;
+    transform: translate(90%, 100%);
+    text-align: center;
+}
+
+.überschrift2{
+    margin-top: 10px;
+}
+
+.image_left {
+    float:right;
+    transform: translate(15%, 0%);
+}
+
+
+.text_right {
+    text-align: left;
+    margin-left: 5%;
+}
+
+
+.image_right {
+    transform: translate(50%, 0%);
+}
+.text_left {
+    text-align: left;
+    float: right;
+}
+
+.row {
+    margin-bottom: 20px;
+}
+
+
+.headerTextLeft {
+    font-size: 24px;
+    text-align: center;
+}
+.headerTextRight {
+}
+
+.col-lg-4 {
+    padding: 5px;
+}
+
+.footerImage{
+    width: 100%;
+    text-align: left;
+    padding-bottom: 5%;
+    padding-top: 5%;
+}
+.footerText{
+    text-align: center;
+}
+
+.gallery{
+    padding-top: 5%;
+}
+#gallery{
+
+}
+.abschlussText{
+    text-align: center;
+}
+.startButton {
+    background-color: #FDF05D;
+    border: none;
+    border-radius: 6px;
+    padding: 4px 12px 4px 12px;
+    text-align: center;
+    outline: none;
+}
+
+/* iFrame CSS */
+#rgmFrame1 {
+    outline: black solid 1px;
+    display: block;
+    height:100%;
+    width: 100%;
+    transform: translate(0%,10%);
+}
+
+.frameBoxVisible{
+    display: inline-block;
+    /*outline: green solid 5px;*/
+}
+#iframebox{
+    width: 1280px;
+    height:800px;
+    text-align: right;
+
+    margin:0 auto;
+
+}
+
+.opacity{
+   /* opacity: 0.6; */
+}
+
+#certificate{
+    transform: translate(0%, 50%);
+    float: right;
+    display: none;
+}
+
+#frameBackground{
+    display: none;
+    background: rgba(0,0,0,0.5);
+    position: fixed;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+.closeButton{
+    max-width:100%;
+    max-height:100%;
+    background-size: cover;
+    margin-bottom: -4px;
+    margin-top: 3%;
+    border: none;
+    opacity: 70%;
+}
+.row {
+    margin: 0;
+}
+
+#wbt_module_2, #wbt_module_3, #wbt_module_4, #wbt_module_5, #wbt_module_6, #wbt_module_7, #wbt_module_8, #wbt_module_9, #wbt_module_10, #wbt_module_11 {
+    pointer-events: none;
+}

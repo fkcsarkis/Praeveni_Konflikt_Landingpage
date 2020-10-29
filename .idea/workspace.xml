@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="066631f3-9e55-4375-8e3d-9f115f5abb66" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/content/chapter_10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/chapter_10/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/chapter_11/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/chapter_11/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/chapter_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/chapter_2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/chapter_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/chapter_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/chapter_4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/chapter_4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/chapter_5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/chapter_5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/chapter_6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/chapter_6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/chapter_7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/chapter_7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/chapter_8/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/chapter_8/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/content/chapter_9/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/content/chapter_9/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/css/client.css" beforeDir="false" afterPath="$PROJECT_DIR$/system/css/client.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/img/Modul_1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/img/Modul_2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/img/Modul_3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/img/Modul_4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/img/Modul_5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/img/Modul_6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/img/Modul_7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/system/js/client.js" beforeDir="false" afterPath="$PROJECT_DIR$/system/js/client.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1jSGh52TEfdPWSvtmNt0YHCJnTM" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="066631f3-9e55-4375-8e3d-9f115f5abb66" name="Default Changelist" comment="" />
+      <created>1603790194358</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603790194358</updated>
+      <workItem from="1603790195479" duration="21562000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

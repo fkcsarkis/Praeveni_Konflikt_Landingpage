@@ -1,0 +1,31 @@
+<?xml version="1.0" standalone="no" ?>
+<manifest identifier="e3_phev_as_de" version="1"
+                xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+                xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+                xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+                xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3"
+                xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3"
+                xmlns:imsss="http://www.imsglobal.org/xsd/imsss"
+                xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                                    http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                                    http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                                    http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                                    http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+	<metadata>
+		<schema>ADL SCORM</schema>
+		<schemaversion>2004 3rd Edition</schemaversion>
+	</metadata>
+	<organizations default="com_porsche">
+		<organization identifier="com_porsche" adlseq:objectivesGlobalToSystem="false">
+			<title>SoliD</title>
+			<item identifier="i1" identifierref="r1" isvisible="true">
+				<title>SoliD</title>
+			</item>	
+		</organization>
+	</organizations>
+	<resources>
+		<resource identifier="r1" type="webcontent" adlcp:scormType="sco" href="index.html">
+			<file href="index.html" />
+		</resource>
+	</resources>
+</manifest>
